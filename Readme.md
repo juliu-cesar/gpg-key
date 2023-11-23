@@ -1,4 +1,9 @@
 # Padrões e técnicas com Git e GitHub
+<div align="center">
+
+<img src="https://github.com/juliu-cesar/padroes-e-tecnicas-git-e-github/assets/121033909/34bd2813-9f52-46db-8db0-500c180d1cad.jpg" height="400"/>
+
+</div>
 
 ## Git Flow
 
